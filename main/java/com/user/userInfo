@@ -1,0 +1,8 @@
+public userinfo{
+    public static void main(String args[]){
+        private  int userid;
+        private String userName;
+        private  String Password;
+        private  
+    }
+}
